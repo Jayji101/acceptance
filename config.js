@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I'M GONNA MARRY YOU YAYYYY TANKS BEEEEBBBB ME LOVEEEE YOUUUU SOOOO MUCHHHH!!! 🎉💝💖💝💓",
+        title: "ME GONNA MARRY YOU YAYYYY TANKS BEEEEBBBB ME LOVEEEE YOUUUU SOOOO MUCHHHH!!! 🎉💝💖💝💓",
         message: "Expect a package at your front door on saturday hehehehe I hope you like itttt 💞💞💞",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
