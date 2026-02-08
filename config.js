@@ -42,14 +42,14 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW marry me right now my squishy wushy gummy bear  🥰💝💞",  // Shows when they go past 5000%
+        extreme: "WOOOOW kiss me right now my squishy wushy gummy bear 🥰💝💞",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YAYYYYY TANKS BEEEEBBBB ME LOVEEE YOUUU SOOO MUCHHH!!! 🎉💝💖💝💓",
+        title: "I'M GONNA MARRY YOU YAYYYY TANKS BEEEEBBBB ME LOVEEEE YOUUUU SOOOO MUCHHHH!!! 🎉💝💖💝💓",
         message: "Expect a package at your front door on saturday hehehehe I hope you like itttt 💞💞💞",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
@@ -61,7 +61,7 @@ const CONFIG = {
         backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#730b03",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        textColor: "#ab0338"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
@@ -69,8 +69,8 @@ const CONFIG = {
     animations: {
         floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 2         // Size of heart explosion effect (1.2-2.0 recommended)
+        bounceSpeed: "0.3s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        heartExplosionSize: 1.3         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
