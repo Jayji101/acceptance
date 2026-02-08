@@ -15,27 +15,27 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🧸', '🐻','🍧','🍓','ִ🫧']                       // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Does my cute little beeb like me?",                                    // First interaction
+            yesBtn: "yes me like you",                                             // Text for "Yes" button
+            noBtn: "no me hate you meanie beanie",                                               // Text for "No" button
+            secretAnswer: "noooo me no like you, me love you beeeeb 💞💞💞"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "So how much does my beebapony love me?",                          // For the love meter
+            startText: "This much and more!",                                   // Text before the percentage
+            nextBtn: "Click me for strawberry ice cream 💞"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Will you take my hand and be my Valentine on February 14th, 2026? 🌹", // The big question!
+            yesBtn: "yes peasheeee me loveeee youuuu",                                             // Text for "Yes" button
+            noBtn: "nah you suck"                                                 // Text for "No" button
         }
     },
 
@@ -59,7 +59,7 @@ const CONFIG = {
     colors: {
         backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#080000",     // Button color (should stand out against the background)
+        buttonBackground: "#450202",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
